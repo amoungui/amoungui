@@ -93,7 +93,7 @@ st.markdown('''
 txt('**Artificial Intelligence & Management**, *IA SCHOOL*, France','2020-2022')
 st.markdown('''
 - Professional End-of-Study Project Master `Implementing a Recommendation Engine API`.
-- Has obtained professional certifications from Data Scientist (https://www.datacamp.com/certificate/DS0016658517671), Data Analyst (https://www.datacamp.com/certificate/DA0015853128558) and a Python Developer certificate (https://www.datacamp.com/statement-of-accomplishment/track/06fa3ac0a523ed9771174f86538b72296a3aa2ea), and SQL Fundamental on the DataCamp platform.
+- Has obtained professional certifications from Data Scientist (https://www.datacamp.com/certificate/DS0016658517671), Data Analyst (https://www.datacamp.com/certificate/DA0015853128558) and a Python Developer certificate, and SQL Fundamental on the DataCamp platform.
 ''')
 
 txt('**Pedagogical Eng** (Computer Science), *ENS of University of Yde I*, Cameroon', '2013-2016')
