@@ -112,7 +112,7 @@ st.markdown('''
 ## Work Experience
 ''')
 
-txt('**Data Scientist & Administrator**, kwin\'s hair E-commerce Platform, Remote', ' Jun 2022 - Today')
+txt('**Data Scientist & Administrator**, kwin\'s hair E-commerce Platform, Remote, (https://kwinshair.com/fr/)', ' Jun 2022 - Today')
 st.markdown('''
 - Development of functionalities 
 - Administration of the platform
@@ -164,18 +164,22 @@ txt4('i-Library', 'A library management software, implement in c language', 'htt
 txt4('ProgiLab', 'Matlab learning software package, implement with matlab language','https://github.com/serges007/progiciel-matlab')
 txt4('Contact Package', 'Laravel 5.* Contact Management Package', 'https://packagist.org/packages/amoungui/contact-form')
 txt4('Newsletter Package', 'Laravel 5.* Newsletter Management Package', 'https://packagist.org/packages/scaffolder/newsletter')
+txt4('Blockchain Tool (Free Solution)', 'A blockchain projet implementation with Typescript, using TypeORM Framework', 'https://github.com/amoungui/blockchain')
+txt4('Allocine DataViz', 'Allociné Data Analysis Projet', 'https://amoungui-allocine-visualization-data-app-a2ujok.streamlitapp.com/')
+
 
 
 #####################
 st.markdown('''
 ## Skills
 ''')
-txt3('Programming', '`Python`, `R`, `Linux/Ubuntu`, `PHP/Laravel`, `Node.js/Typescript`, `Java`')
+txt3('Programming', '`Python`, `R`, `Linux/Ubuntu` ')
 txt3('Data processing/wrangling', '`SQL`, `pandas`, `numpy`, `PySpark`, `Hadoop`')
 txt3('Data visualization', '`matplotlib`, `seaborn`, `plotly`, `altair`, `ggplot2`, `Power BI`')
 txt3('Machine Learning', '`scikit-learn`')
 txt3('Deep Learning', '`TensorFlow`, `Keras`')
-txt3('Web development', '`Flask`, `HTML`, `CSS`, `Scrapy`')
+txt3('Database Management', '`PostgreSQL`, `MongoDB`, `MySQL` ')
+txt3('Web development', '`Flask`, `HTML`, `CSS`, `Scrapy`, `PHP/Laravel`, `Node.js/Typescript`, `Java`, `WordPress`')
 txt3('Model deployment', '`streamlit`, `R Shiny`, `Heroku`, `AWS`')
 
 #####################
